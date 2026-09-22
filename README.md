@@ -61,6 +61,13 @@ Uma explicação detalhada e comparada da arquitetura (MVC, MVP, MVI e MVVM), co
    ```bash
    ./gradlew installDebug
    ```
+## Prints
+
+1) <img width="559" height="531" alt="image" src="https://github.com/user-attachments/assets/a7100ed5-85f2-4925-8ce8-c1af9c658b19" />
+2) <img width="494" height="392" alt="image" src="https://github.com/user-attachments/assets/db10ceb6-849f-40de-b3fd-969190023838" />
+3) <img width="540" height="530" alt="image" src="https://github.com/user-attachments/assets/5bd14972-c2c4-4116-bc15-c5c13e861e54" />
+4) <img width="523" height="620" alt="image" src="https://github.com/user-attachments/assets/bced45ff-f7ed-48a3-821c-4882dfc5a25e" />
+5) <img width="544" height="554" alt="image" src="https://github.com/user-attachments/assets/8e6edd1c-4669-4a8a-b32f-d16a660bbf4d" />
 
 ## Testes
 
